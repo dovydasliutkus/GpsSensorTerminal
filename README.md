@@ -1,0 +1,1 @@
+Instaliatorius for_redistribution aplanke.
